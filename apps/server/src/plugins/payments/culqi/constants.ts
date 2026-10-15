@@ -1,0 +1,1 @@
+export const CULQI_PLUGIN = 'culqi';
