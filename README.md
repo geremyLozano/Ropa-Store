@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ropa-store
 
 A full-stack e-commerce application built with [Vendure](https://www.vendure.io/) and [Next.js](https://nextjs.org/).
@@ -442,3 +443,6 @@ cuando la tienda pase a producción.
 * Implementar el `CulqiPaymentHandler` de Vendure.
 * Configurar las credenciales (`Public Key` y `Secret Key`) una vez obtenidas desde la cuenta de Culqi.
 * Realizar pruebas en entorno **sandbox** y, posteriormente, habilitar el entorno de **producción**.
+=======
+# Ropa-Store
+>>>>>>> 54ef1febcc5b00ec6c35a744eba288072eef9989
